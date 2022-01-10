@@ -19,6 +19,7 @@
   "homepage": "https://github.com/rolodato/demo-npm-minimal#readme",
   "dependencies": {
     "dotenv-safe": "^8.2.0",
+    "gitlab-letsencrypt": "^3.1.1",
     "pac-resolver": "^4.0.0"
   },
   "devDependencies": {
